@@ -1,12 +1,19 @@
-Good morning. Here is your schedule for today.
+Good morning, Markus. Here is your schedule for Monday.
 
-At 8 o'clock, start your morning routine and review your task list.
-At 9 o'clock, begin your most important work or project for the day.
-At 12 noon, take a lunch break and step away from your screen.
-At 1 in the afternoon, continue with your remaining work tasks.
-At 3 in the afternoon, take a short break and check any pending messages.
-At 5 in the evening, wrap up your work and review what you accomplished today.
-At 7 in the evening, spend time on personal activities or relaxation.
-At 10 at night, begin winding down and prepare for sleep.
+At 6 o'clock, you wake up, make breakfast, and prepare for evening work.
+
+At 7:30, you begin getting ready for school.
+
+At 8 o'clock, you're in school starting with two Danish classes until 9:30.
+
+At 9:45, you're helping at the IT department until 11:15.
+
+After that, you have a break until 12 o'clock.
+
+From 12:00 to 12:45, you have an English lesson, followed by a math lesson from 12:45 to 13:30.
+
+When you get home, you prepare the meeting for the two new developers.
+
+Around 5 o'clock, you onboard the junior developers if available.
 
 That is the end of your schedule for today.
