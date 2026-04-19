@@ -1,6 +1,6 @@
 # Tasker Morning Briefing
 
-This repository is a simple data source for an Android Tasker automation. Tasker fetches plain text files from this repo and reads them aloud using text-to-speech, giving you a personalised morning briefing every day.
+This repository is a simple data source for an Android Tasker automation. Tasker fetches plain text files from this repo and reads them aloud using text-to-speech, giving you a personalized morning briefing every day.
 
 ---
 
