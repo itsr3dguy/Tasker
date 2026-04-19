@@ -1,10 +1,15 @@
-The tasks ain't waiting, here's the list.
+The tasks aren't waiting. Here's the list.
 
 Check and respond to all important emails and messages.
+
 Complete the top priority task on your to-do list.
+
 Start the meeting with the new developers.
-End the meeting and create notes on the developers.
+
+End the meeting and create notes about the developers.
+
 Update the tasks and schedule for tomorrow.
+
 Back up any important files or documents you worked on today.
 
 That is the end of your task list.
