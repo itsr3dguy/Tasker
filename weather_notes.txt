@@ -1,5 +1,1 @@
-Weather information for today has not been updated yet.
-
-To add a weather update, edit this file and replace this text with a short description of today's weather, such as: Today will be sunny with a high of 75 degrees. Bring sunscreen if you plan to go outside.
-
-You can update this file from your phone or PC by editing it directly on GitHub, then your Tasker automation will read the latest version aloud during your morning briefing.
+The weather has been redacted, just kidding, not updated yet.
