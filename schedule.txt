@@ -1,19 +1,7 @@
-Good morning, Markus. Here is your schedule for Monday.
+Good morning, Markus. Here is your schedule for Tuesday.
 
-At 6 o'clock, you wake up, make breakfast, and prepare for evening work.
+When you get home, you send a direct message to the junior developers and start fixing the onboarding scroll issue.
 
-At 7:30, you begin getting ready for school.
+Around 7 o'clock, you onboard the junior developers if available.
 
-At 8 o'clock, you're in school starting with two Danish classes until 9:30.
-
-At 9:45, you're helping at the IT department until 11:15.
-
-After that, you have a break until 12 o'clock.
-
-From 12:00 to 12:45, you have an English lesson, followed by a math lesson from 12:45 to 13:30.
-
-When you get home, you prepare the meeting for the two new developers.
-
-Around 5 o'clock, you onboard the junior developers if available.
-
-That is the end of your schedule for today.
+That is the end of your schedule for today. Today is Tuesday the twenty-first of April.
