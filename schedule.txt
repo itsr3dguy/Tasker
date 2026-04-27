@@ -1,7 +1,7 @@
 Good morning, Markus. Here is your schedule for Tuesday.
 
-When you get home, you send a direct message to the junior developers and start fixing the onboarding scroll issue.
+IMPORTANT: Prepare for presentation in Danish.
 
-Around 7 o'clock, you onboard the junior developers if available.
+You must fix the reset password bug today so Gibb can reclaim access to his account.
 
-That is the end of your schedule for today. Today is Tuesday the twenty-first of April.
+That is the end of your schedule for today. Today is Tuesday the twenty-eight of April.
